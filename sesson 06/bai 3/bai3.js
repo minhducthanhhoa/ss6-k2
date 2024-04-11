@@ -1,0 +1,13 @@
+"use strict";
+let b = 5;
+let c = 7;
+let x;
+let sum = b + c;
+x = sum;
+console.log("Tổng 2 số: ", x);
+let signal = c - b;
+x = signal;
+console.log("Hiệu 2 số: ", x);
+let accumulation = b * c;
+x = accumulation;
+console.log("Tích 2 số: ", x);
